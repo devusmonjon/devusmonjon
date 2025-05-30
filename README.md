@@ -26,4 +26,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=devusmonjon&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+![Profile Views](https://komarev.com/ghpvc/?username=usmonjonx&color=green)
+![Followers](https://img.shields.io/github/followers/usmonjonx?label=Followers&style=social)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
